@@ -1,7 +1,7 @@
 # portfolio
 Portfolio showcasing my work in AI development, research and projects.
 
- Portfolio: Chetali Hariramani
+Chetali Hariramani
 🚀 AI Developer | Researcher | Technical Writer
 
 🔗 GitHub: github.com/ChetaliH
